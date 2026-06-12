@@ -136,3 +136,11 @@ StoryLeaf is a practical and efficient digital journaling application designed t
 the application provides a complete journaling solution without requiring complex infrastructure. The project showcases important software development concepts such as
 file management, data persistence, user interface design, and data visualization. StoryLeaf serves as a valuable tool for individuals who wish to document their daily
 experiences while also demonstrating the capabilities of modern Python-based web application development.
+
+<img width="1920" height="887" alt="Image" src="https://github.com/user-attachments/assets/a39a83db-97db-4b07-9d0b-217785d8a49f" />
+
+<img width="1920" height="893" alt="Image" src="https://github.com/user-attachments/assets/19addcb0-09bd-4e8e-bdf4-e5e069ba0ee8" />
+
+<img width="1920" height="890" alt="Image" src="https://github.com/user-attachments/assets/a983a5a2-5221-432f-834b-213ee194674f" />
+
+<img width="1920" height="893" alt="Image" src="https://github.com/user-attachments/assets/272fe6aa-96b9-403e-912c-005f4f510875" />
